@@ -2,7 +2,11 @@
 Insper 2021.1 - Unity 2D game development
 
 Authors: Caio Fauza and Pedro Paulo Telho
+
 https://caiofauza.itch.io/olantern-vs-dragons
+
+Game sample: https://youtu.be/Js-6FKxysQ4
+
 
 Music, sound effects and sprites used:
 

@@ -6,6 +6,14 @@ TagManager:
   tags:
   - Floor
   - Platform
+  - Level1Portal
+  - Level2Portal
+  - Enemy
+  - Boss
+  - PowerUp
+  - EndGame
+  - Level3Portal
+  - Level4Portal
   layers:
   - Default
   - TransparentFX
